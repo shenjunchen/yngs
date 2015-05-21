@@ -31,7 +31,7 @@
            <dict> 
                <!-- required -->
                <key>bundle-identifier</key>
-               <string>com.dheaven.msc.EGH33E</string>
+               <string>com.dheaven.msc.egh33e</string>
              
                <!-- required.  the download kind. -->
                <key>kind</key>
