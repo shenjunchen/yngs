@@ -31,7 +31,7 @@
            <dict> 
                <!-- required -->
                <key>bundle-identifier</key>
-               <string>com.dheaven.msc.egh33e</string>
+               <string>com.dheaven.msc.egh33e1</string>
              
                <!-- required.  the download kind. -->
                <key>kind</key>
@@ -39,7 +39,7 @@
              
                <!-- required.  the title to display during the download. -->
                <key>title</key>
-               <string>GSDX</string>
+               <string>移动办公</string>
            </dict>
        </dict>
    </array>
