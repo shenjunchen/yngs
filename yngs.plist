@@ -31,7 +31,7 @@
            <dict> 
                <!-- required -->
                <key>bundle-identifier</key>
-               <string>com.dheaven.msc.egh33e1</string>
+               <string>com.app.sunsunh</string>
              
                <!-- required.  the download kind. -->
                <key>kind</key>
